@@ -5,7 +5,12 @@ description: >-
 baseurl: "" 
 url: "https://Alonzo65.github.io"
 
-
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "neon"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
 
 author:
   name: "Alonzo Marquez Rodriguez"
