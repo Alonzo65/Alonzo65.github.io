@@ -1,0 +1,27 @@
+title: "Alonzo Marquez Rodriguez"
+email: alonzomarquez65@gmail.com
+description: >-
+  Software Engineer • Backend Dev • QA Automation • Utah
+baseurl: "" 
+url: "https://Alonzo65.github.io"
+
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+author:
+  name: "Alonzo Marquez Rodriguez"
+  avatar: "/assets/images/avatar.jpg"
+  github: Alonzo65
+  location: Utah
+
+# Optional navigation bar
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/#projects"
+  - title: "Resume"
+    url: "/resume.pdf"
